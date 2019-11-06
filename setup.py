@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='brcomarcas',
-    version="0.0.1",
+    version="0.0.4",
     author='Iasmini Gomes',
     author_email='iasmini.gomes@gmail.com',
     description='Functions to list court districts of Brazil',

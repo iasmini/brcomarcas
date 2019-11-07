@@ -4,7 +4,7 @@ Contém a lista de comarcas do Brasil e funções de busca.
 
 ## Instalação
 
-Como o pacote deve ser privado não está no Pypi. A instalação é feita a partir do link do repositório no Github executando o seguinte comando:
+Como o pacote deve ser privado, não está no Pypi. A instalação é feita a partir do link do repositório no Github executando o seguinte comando:
 
 ```
 pip install git+https://github.com/iasmini/brcomarcas
